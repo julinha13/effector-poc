@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="Container">
       <h1>
-        Simple To Do List with
+        Simple To Do List with {""}
         <a href="https://effector.dev/" target="_blank" rel="noreferrer">
           Effector
         </a>

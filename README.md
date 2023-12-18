@@ -1,3 +1,18 @@
+# Proof of Concept: State management with Effector library
+
+The goal of this project is demonstrate how Effector library can be used to state management as a option to Redux library.
+So far the conclusions are:
+
+**Why Effector over Redux**
+
+- Effector supports multiple lightweight stores. What's convenient to implement business logic and to access only the store with the data as needed.
+- Effector uses Events to update stores. Events are basically functions that can be called from any place in your code and can also be passed as event handlers to child React elements.
+- Effector helps eliminate unnecessary state updates.
+- Effector requires less boilerplate code than Redux, but keeps state dependencies explicit.
+- It's easy to unit test (https://effector.dev/en/guides/testing/#test-setup).
+
+Importante to highlight: Due to simplification, some best practices were not applied to the project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
