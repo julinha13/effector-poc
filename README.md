@@ -13,6 +13,8 @@ So far the conclusions are:
 
 Importante to highlight: Due to simplification, some best practices were not applied to the project.
 
+[LIVE DEMO](https://julinha13.github.io/effector-poc/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
