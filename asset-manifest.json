@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/effector-poc/static/css/main.f1f01b30.css",
+    "main.js": "/effector-poc/static/js/main.5219b6e7.js",
+    "index.html": "/effector-poc/index.html",
+    "main.f1f01b30.css.map": "/effector-poc/static/css/main.f1f01b30.css.map",
+    "main.5219b6e7.js.map": "/effector-poc/static/js/main.5219b6e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1f01b30.css",
+    "static/js/main.5219b6e7.js"
+  ]
+}
